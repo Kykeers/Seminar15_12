@@ -4,4 +4,4 @@
 
 ## Change from remote repository
 
-* Чернова Евгения
+* Чернова Евгения Юрьевна 
